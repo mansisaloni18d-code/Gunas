@@ -1,0 +1,6 @@
+{
+  "name": "Three Gunas Assessment",
+  "description": "A comprehensive self-reflection assessment inspired by the Bhagavad Gita, Yoga philosophy, and Ayurveda to evaluate your balance of Sattva, Rajas, and Tamas gunas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
